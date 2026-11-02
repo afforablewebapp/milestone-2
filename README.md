@@ -13,8 +13,8 @@ A secure, multi-user freight quoting platform built with **FastAPI, SQLite, JWT,
 |---|---|---|
 | **Bhavana** | **Admin and Operations Manager** | Admin dashboard (users table, add, delete, role change, lock/unlock, KPI cards, activity log), Run agents page, and the Operations Manager role (Route, Carriers, Weather, Customs, Run agents) |
 | **Mehak** | **Login page and Freight Broker** | Sign in, sign up and forgot-password screens (same theme as Milestone 1), the role picker, and the Freight Broker role (Copilot, Spot Quotes, Carriers, Margin) |
-| **Shahabuddin** | **Customer** | Customer role: own quotes only, quote form for own account, Copilot limited to own shipments and quotes |
-| **Bhargav** | **Auditor** | Auditor role: read-only access to every page, no quote creation and no agent actions |
+| **Shahabuddin** | **Auditor** | Customer role: own quotes only, quote form for own account, Copilot limited to own shipments and quotes |
+| **Bhargav** | **customer** | Auditor role: read-only access to every page, no quote creation and no agent actions |
 
 ---
 
